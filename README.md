@@ -1,13 +1,13 @@
 <img width="35%" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h2> Hey there! I'm Mbongeni A Hadebe.</h2>
+<h2> Hey there! I'm Mbongeni A. Hadebe.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Holder of Master of Science in Information Systems at National University of Science and Technology.
 - 🎓 &nbsp; Holder of Honours Degree in Bachelor of Engineering in Electronic Engineering at National University of Science and Technology.
-- 💼 &nbsp; Working as a Software Engineer at National University of Science and Technology.
+- 💼 &nbsp; Working as a Full Stack Software Engineer at National University of Science and Technology.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Continous Pursuing the edge in knowledge to be become the ultimate MERN stack guy.
 
